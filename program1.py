@@ -1,1 +1,1 @@
-print("razzak")
+a=6+7
